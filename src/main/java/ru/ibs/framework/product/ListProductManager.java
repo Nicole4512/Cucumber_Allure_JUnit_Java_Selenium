@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Класс для управления веб листом продуктов
+ * Класс для управления листом продуктов
  */
 public class ListProductManager {
 
