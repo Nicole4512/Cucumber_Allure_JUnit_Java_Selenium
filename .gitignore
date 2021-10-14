@@ -2,5 +2,9 @@
 /shelf/
 /workspace.xml
 /.idea/
+/.allure/
+/allure-results/
 *.iml
 /target/
+*.txt
+
